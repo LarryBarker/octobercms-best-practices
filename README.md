@@ -48,10 +48,6 @@ The best place to learn about OctoberCMS is by [reading the documentation](https
 * [Follow me on Twitter](https://twitter.com/thegreatbarker)
 * [Find me on Slack](https://octobercms.slack.com/)
 
-### Contributing
-
-Before sending a Pull Request, be sure to review the [Contributing Guidelines](CONTRIBUTING.md) first.
-
 ### Coding standards
 
 Please follow the following guides and code standards:
