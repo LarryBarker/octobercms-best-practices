@@ -44,7 +44,8 @@ The best place to learn about OctoberCMS is by [reading the documentation](https
 
 ### Contact
 
-* [Check out my other repos](https://github.com/larbearrr)
+* [Visit my site](https://larrybarker.me)
+* [Check out my other repos](https://github.com/larrybarker)
 * [Follow me on Twitter](https://twitter.com/thegreatbarker)
 * [Find me on Slack](https://octobercms.slack.com/)
 
